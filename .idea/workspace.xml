@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="daa59867-01d7-42b1-838c-d7d9bc781e57" name="Changes" comment="">
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/.idea/pythonProject1.iml" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/accessfunction.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/datastructure.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/datatypes.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/forloop.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/forloopexample.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/functions.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/functions_with_parameter.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/ifelseifelsestatements.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/ifstatements.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/inheritance.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/inputcalcadd.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/inputoutput.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/intro.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/keywords.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/mymodule.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/operators.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/opp2.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/sumloop.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/variables.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/whileloop.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2cImjZfDygfQmwvpD9EbajbtMvH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.accessfunction.executor": "Run",
+    "Python.calc.executor": "Run",
+    "Python.datastructure.executor": "Run",
+    "Python.datatypes.executor": "Run",
+    "Python.forloop.executor": "Run",
+    "Python.forloopexample.executor": "Run",
+    "Python.functions.executor": "Run",
+    "Python.functions_with_parameter.executor": "Run",
+    "Python.ifelseifelsestatements.executor": "Run",
+    "Python.ifstatements.executor": "Run",
+    "Python.inheritance.executor": "Run",
+    "Python.inputcalcadd.executor": "Run",
+    "Python.inputoutput.executor": "Run",
+    "Python.keywords.executor": "Run",
+    "Python.mymodule.executor": "Run",
+    "Python.operators.executor": "Run",
+    "Python.opp.executor": "Run",
+    "Python.opp2.executor": "Run",
+    "Python.sumloop.executor": "Run",
+    "Python.whileloop.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\AppData\Local\Programs\PyCharm Professional\jbr\bin\hello python\pythonProject1" />
+      <recent name="C:\Users\User\AppData\Local\Programs\PyCharm Professional\jbr\bin\hello python\pythonProject1\.venv" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daa59867-01d7-42b1-838c-d7d9bc781e57" name="Changes" comment="" />
+      <created>1707807605291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707807605291</updated>
+      <workItem from="1707807624957" duration="39871000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject1$calc.coverage" NAME="calc Coverage Results" MODIFIED="1707817211519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$opp2.coverage" NAME="opp2 Coverage Results" MODIFIED="1707823366952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$inheritance.coverage" NAME="inheritance Coverage Results" MODIFIED="1707831198611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$forloopexample.coverage" NAME="forloopexample Coverage Results" MODIFIED="1707851758559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$opp.coverage" NAME="opp Coverage Results" MODIFIED="1707822618735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1/.venv" />
+    <SUITE FILE_PATH="coverage/pythonProject1$keywords.coverage" NAME="keywords Coverage Results" MODIFIED="1707836122281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$ifelseifelsestatements.coverage" NAME="ifelseifelsestatements Coverage Results" MODIFIED="1707845025182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$ifstatements.coverage" NAME="ifstatements Coverage Results" MODIFIED="1707844219197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$inputcalcadd.coverage" NAME="inputcalcadd Coverage Results" MODIFIED="1707843145739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$forloop.coverage" NAME="forloop Coverage Results" MODIFIED="1707851266058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$whileloop.coverage" NAME="whileloop Coverage Results" MODIFIED="1707850312105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$operators.coverage" NAME="operators Coverage Results" MODIFIED="1707840334298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$functions_with_parameter.coverage" NAME="functions_with_parameter Coverage Results" MODIFIED="1707854505463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$datatypes.coverage" NAME="datatypes Coverage Results" MODIFIED="1707841434617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$inputoutput.coverage" NAME="inputoutput Coverage Results" MODIFIED="1707841971758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$datastructure.coverage" NAME="datastructure Coverage Results" MODIFIED="1707849478666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$accessfunction.coverage" NAME="accessfunction Coverage Results" MODIFIED="1707853489254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$functions.coverage" NAME="functions Coverage Results" MODIFIED="1707853992641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$mymodule.coverage" NAME="mymodule Coverage Results" MODIFIED="1707824462228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$sumloop.coverage" NAME="sumloop Coverage Results" MODIFIED="1707852100310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/jbr/bin/hello python/pythonProject1" />
+  </component>
+</project>
